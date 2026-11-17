@@ -1,10 +1,3 @@
-## Miljö
-Projektet använder Python 3.14.7.
-Installera de paket som behövs från projektets huvudmapp med:
-
-```bash
-python -m pip install -r requirements.txt
-
 ## Resultat 
 
 ### Fördelning av systoliskt blodtryck
@@ -27,5 +20,10 @@ Diagrammet visar att 73,4 % röker inte och 26,6 röker.
 
 Testet når 80 % power först vid en skillnad på 3,0 mmHg.
 
+## Miljö
+Projektet använder Python 3.14.7.
+Installera de paket som behövs från projektets huvudmapp med:
 
+```bash
+python -m pip install -r requirements.txt
 
