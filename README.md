@@ -11,7 +11,7 @@ Medelblodtrycket bland 800 deltagarna är 149,18 mmHg.
 Medianvikten är 78,9 kg bland män och 67,4 kg bland kvinnor. 
 
 ### Antalet rökare 
-![Stapeldiagram över antalet rökare](notebooks/bild/antal_stapeldiagram.png)
+![Stapeldiagram över antalet rökare](notebooks/bilder/antal_stapeldiagram.png)
 
 Diagrammet visar att 73,4 % röker inte och 26,6 röker. 
 
