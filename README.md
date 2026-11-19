@@ -20,6 +20,11 @@ Diagrammet visar att 73,4 % röker inte och 26,6 röker.
 
 Testet når 80 % power först vid en skillnad på 3,0 mmHg.
 
+### Systoliskt blodtryck efter ålder
+![Systoliskt blodtryck efter ålder](bilder/blodtryck_efter_alder.png)
+
+Lutning: 0.54 mmHg per år
+
 ## Miljö
 Projektet använder Python 3.14.7.
 Installera de paket som behövs från projektets huvudmapp med:
