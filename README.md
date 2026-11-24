@@ -20,6 +20,21 @@ Diagrammet visar att 73,4 % röker inte och 26,6 röker.
 
 Testet når 80 % power först vid en skillnad på 3,0 mmHg.
 
+### Systoliskt blodtryck efter ålder
+![Systoliskt blodtryck efter ålder](bilder/blodtryck_efter_alder.png)
+
+Lutning: 0.54 mmHg per år
+
+### Faktiskt och uppskattat blodtryck
+![Faktiskt och uppskattat blodtryck](bilder/multipel_regression_blodtryck.png)
+
+Punkter nära den streckade linjen visar uppskattningar nära det faktiska blodtrycket.
+
+### Modellens fel vid olika uppskattningar
+![Modellens fel vid olika uppskattningar](bilder/residualdiagram_blodtryck.png)
+
+Nollinjen betyder att uppskattningen stämde. Ju längre en punkt ligger från linjen, desto större är modellens fel.
+
 ## Miljö
 Projektet använder Python 3.14.7.
 Installera de paket som behövs från projektets huvudmapp med:
